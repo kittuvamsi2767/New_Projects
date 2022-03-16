@@ -1,0 +1,6 @@
+print("Hello World")
+print("Hello \n World")
+print("Hello\tWorld")
+print(10*"Hello")
+print("Hello"*10)
+print("Hello"+"World")
